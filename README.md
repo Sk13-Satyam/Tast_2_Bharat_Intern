@@ -1,2 +1,2 @@
-# This is my Temperature Converter Website <br>
-it convert Degree, Fahrenheit, and Celsius Into Each Other. 
+# This is my Temperature Converter Website. <br>
+It converts Degree, Fahrenheit, and Celsius Into Each Other. 
